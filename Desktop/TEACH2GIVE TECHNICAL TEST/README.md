@@ -1,7 +1,9 @@
 ﻿# Teach2Give_Technical_Test
  
 Teach2Give Technical Test Solutions
+
 This repository contains my solutions to the Teach2Give Technical Test questions. Each question is solved using Python programming language.
+
 Questions
 1.	FizzBuzz: Write a program that prints the numbers from 1 to 100. For multiples of 3, print "Fizz"; for multiples of 5, print "Buzz"; and for numbers that are multiples of both 3 and 5, print "FizzBuzz".
 2.	Fibonacci Sequence: Write a program to generate the Fibonacci sequence up to 100.
