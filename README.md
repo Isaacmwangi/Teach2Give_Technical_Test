@@ -25,4 +25,3 @@ Folder Structure
 # Author
 •	Isaac Mwangi
 Feel free to explore the solutions and provide feedback or suggestions for improvement!
-
